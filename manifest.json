@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Textbox Navigator",
+  "version": "1.0",
+  "description": "Use Alt+J/K to navigate between text fields and contenteditable elements",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
