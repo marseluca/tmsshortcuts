@@ -4,7 +4,7 @@ Use **Alt+J** (next) and **Alt+K** (previous) to navigate between all text input
 
 https://github.com/user-attachments/assets/00d714e9-6bfa-4147-8677-686a6fcdedec
 
-## Installation Instructions
+## Installation Instructions (2 minutes)
 
 ### Step 1: Download and Extract
 1. Download the ZIP file ("< > Code" button > Download ZIP)
